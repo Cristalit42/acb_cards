@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+  font-style: normal;
+  src:
+    url("../fonts/plusJakartaSans-bold.eot") format("eot"),
+    url("../fonts/plusJakartaSans-bold.woff") format("woff"),
+    url("../fonts/plusJakartaSans-bold.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 900;
+  font-style: normal;
+  src:
+    url("../fonts/Inter-black.eot") format("eot"),
+    url("../fonts/Inter-black.woff") format("woff"),
+    url("../fonts/Inter-black.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 800;
+  font-style: normal;
+  src:
+    url("../fonts/Inter-extraBold.eot") format("eot"),
+    url("../fonts/Inter-extraBold.woff") format("woff"),
+    url("../fonts/Inter-extraBold.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 700;
+  font-style: normal;
+  src:
+    url("../fonts/Inter-bold.eot") format("eot"),
+    url("../fonts/Inter-bold.woff") format("woff"),
+    url("../fonts/Inter-bold.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 600;
+  font-style: normal;
+  src:
+    url("../fonts/Inter-semiBold.eot") format("eot"),
+    url("../fonts/Inter-semiBold.woff") format("woff"),
+    url("../fonts/Inter-semiBold.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 500;
+  font-style: normal;
+  src:
+    url("../fonts/Inter-medium.eot") format("eot"),
+    url("../fonts/Inter-medium.woff") format("woff"),
+    url("../fonts/Inter-medium.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    url("../fonts/Inter-regular.eot") format("eot"),
+    url("../fonts/Inter-regular.woff") format("woff"),
+    url("../fonts/Inter-regular.woff2") format("woff2");
+  font-display: swap;
+}
