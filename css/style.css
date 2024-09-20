@@ -2771,6 +2771,10 @@ select::-ms-expand {
   width: 100%;
 }
 
+.footer__main-list {
+  margin-right: 50px;
+}
+
 .footer__logo {
   margin-bottom: 28px;
 }
